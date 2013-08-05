@@ -4,7 +4,7 @@ NAME
 VERSION
     version 0.9
 
-SYNOPSIS
+SYNOPSIS  sss
      rainbarf --tmux --width 40 --no-battery
 
 DESCRIPTION
